@@ -22,7 +22,7 @@ A sleek web application that leverages the REST Countries API to provide compreh
 - Internet connection
 
 ## 🌐 Project Demo
-Check out the live demo [here](https://surajkumar345678.github.io/REST-Countries-API-Project/).
+Check out the live demo [here](https://kumarsuraj345678.github.io/REST-Countries-API-Project/).
 
 ## 📚 Usage
 1. Open the application in your web browser.
